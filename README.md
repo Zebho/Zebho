@@ -11,7 +11,7 @@ As a Data Scientist with experience in the energy sector, I'd like to continue m
 <h3 align="left"> 📫 How to reach me 📫 </h3>
 - By mail : arthurdubsm@gmail.com
 <p align="left">
-- By LinkedIn : <a href="https://linkedin.com/in/https://www.linkedin.com/in/arthur-dubois-ds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-dubois-ds/" height="30" width="40" /></a>
+- By LinkedIn : <a href=https://www.linkedin.com/in/arthur-dubois-ds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-dubois-ds/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> More about me :</h3>
